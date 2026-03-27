@@ -1,0 +1,5 @@
+{
+  "name": "🥝 Jira Format Converter",
+  "description": "Convert Markdown and TSV tables to Jira Wiki Markup instantly.",
+  "requestFramePermissions": []
+}
